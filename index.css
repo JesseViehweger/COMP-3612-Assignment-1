@@ -1,0 +1,27 @@
+/* Jesse Viehweger
+COMP 3612 - Assignment 1
+October 8th, 2022
+Dr. Randy Connolly */
+
+/* Header formatting */
+body{margin: 0%; background-color: rgb(228, 221, 212);}
+nav{background-image: url("florence.jpg");  background-repeat: no-repeat; background-size: cover;}
+nav>p>a{text-decoration: none;font-size: 24px; color: #51279B; padding-right: 1em; padding-left: 1em; font-family: 'Lucida Sans', 'Lucida Sans Regular';}
+nav>p>a:hover{color: #8662C7}
+#slogan{font-size: 48px; color: white; margin-left: 150px; margin-top: 2.5em; font-family: 'Lucida Sans', 'Lucida Sans Regular';}
+#description{font-size: 24px; color: white; margin-left: 150px; font-family: 'Lucida Sans', 'Lucida Sans Regular';}
+#learnmore{font-size: 20px; color: white; margin-left: 150px; padding: 15px 15px; background-color: #51279B; text-decoration: none; font-family: 'Lucida Sans', 'Lucida Sans Regular';}
+nav{padding-bottom: 25em;}
+
+/* Page body formatting */
+#destinations>div{display: inline-block; margin: 1em 0.5em; background-color: rgb(241, 237, 233); width: 32.3%;}
+.title>a{font-size: 14px; color: rgb(59, 58, 58); text-decoration: none; font-family: 'Lucida Sans', 'Lucida Sans Regular'; padding-left: 1em;}
+.excerpt{font-size: 12px; color: black; font-family: 'Lucida Sans', 'Lucida Sans Regular'; padding-left: 1em;}
+.stats{font-size: 10px; color: black; font-family: 'Lucida Sans', 'Lucida Sans Regular'; padding-left: 1em;}
+.stats>img{width: 4%;}
+.card>img{width: 100%;}
+
+/* Page body formatting */
+footer{background-color: #51279B; color: white; padding: 1em; font-family: 'Lucida Sans', 'Lucida Sans Regular'}
+footer>p>a{color: white;}
+

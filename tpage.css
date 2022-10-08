@@ -1,0 +1,20 @@
+/* Jesse Viehweger
+COMP 3612 - Assignment 1
+October 8th, 2022
+Dr. Randy Connolly */
+
+/* Header formatting */
+body{margin: 0%; background-color: rgb(228, 221, 212);}
+nav>p>a{text-decoration: none;font-size: 24px; color: #51279B; padding-right: 1em; padding-left: 1em; font-family: 'Lucida Sans', 'Lucida Sans Regular';}
+nav>p>a:hover{color: #8662C7}
+nav{background-color: rgb(241, 237, 233); padding-bottom: 1em;}
+
+/* Page body formatting */
+body>img{width: 50%; margin: auto; display: block;padding-top: 2em; padding-bottom: 1em;}
+body>p{font-size: 24px; color: black; font-family: 'Lucida Sans', 'Lucida Sans Regular'; text-align: center;}
+body>p>img{width: 1%;}
+#map{padding-bottom: 2em;}
+
+/* Footer formatting */
+footer{background-color: #51279B; color: white; padding: 1em; font-family: 'Lucida Sans', 'Lucida Sans Regular'}
+footer>p>a{color: white;}
